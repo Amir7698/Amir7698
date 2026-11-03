@@ -1,4 +1,4 @@
-# Amir Mohtashami
+# Amirhossein Mohtashami
 
 Embedded firmware engineer based in Turin, Italy. M.Sc. in Electronic Engineering, Politecnico di Torino.
 
